@@ -1,4 +1,5 @@
-Exim 4.95 remote newline injection
+Exim 4.95 remote newline injection.
+Very interesting vulnerability which I found some time ago.
 
 ```
 int
